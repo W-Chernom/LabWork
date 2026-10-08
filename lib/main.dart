@@ -121,7 +121,7 @@ class _MyHomePageState extends State<MyHomePage> {
                             fontWeight: FontWeight.bold,
                           ),
                         ),
-                        const SizedBox(height: 8.0), // Отступ между строками
+                        const SizedBox(height: 5.0), // Отступ между строками
                         // Текст: Автор
                         Text(
                           book.author,
